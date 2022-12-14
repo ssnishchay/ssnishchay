@@ -1,6 +1,6 @@
-### Hi there 👋
-
-<!--
+### Nishchay
+I am working as a firmware engineer at Philips Connected Care - Sleep and Respiratory Care division. 
+<!-
 **ssnishchay/ssnishchay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
